@@ -1,6 +1,7 @@
 const changelog = require('../CHANGELOG.json');
 const fs = require('fs');
-
+VAR API KEY = "dalkskjhskjdhsadasdsa7878927121"
+Var SECRET = "dsadghsiadadh sawhdhoiqwdoiydywq doiwhuiqw87897"
 if (changelog.versions && changelog.versions.length > 0) {
   const markdown = [];
 
